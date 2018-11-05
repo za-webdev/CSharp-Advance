@@ -1,0 +1,6 @@
+c:\users\zali\documents\visual studio 2015\Projects\LamdaExpressions\LamdaExpressions\bin\Debug\LamdaExpressions.exe.config
+C:\Users\zali\Documents\Visual Studio 2015\Projects\LamdaExpressions\LamdaExpressions\bin\Debug\LamdaExpressions.exe
+C:\Users\zali\Documents\Visual Studio 2015\Projects\LamdaExpressions\LamdaExpressions\bin\Debug\LamdaExpressions.pdb
+C:\Users\zali\Documents\Visual Studio 2015\Projects\LamdaExpressions\LamdaExpressions\obj\Debug\LamdaExpressions.csprojResolveAssemblyReference.cache
+C:\Users\zali\Documents\Visual Studio 2015\Projects\LamdaExpressions\LamdaExpressions\obj\Debug\LamdaExpressions.exe
+C:\Users\zali\Documents\Visual Studio 2015\Projects\LamdaExpressions\LamdaExpressions\obj\Debug\LamdaExpressions.pdb

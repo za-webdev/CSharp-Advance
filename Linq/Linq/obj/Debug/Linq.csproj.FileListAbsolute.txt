@@ -1,0 +1,6 @@
+c:\users\zali\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.exe
+c:\users\zali\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.pdb
+c:\users\zali\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.exe
+c:\users\zali\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.pdb

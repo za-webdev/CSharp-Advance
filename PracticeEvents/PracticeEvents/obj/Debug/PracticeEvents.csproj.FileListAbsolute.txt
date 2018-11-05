@@ -1,0 +1,6 @@
+c:\users\zali\documents\visual studio 2015\Projects\PracticeEvents\PracticeEvents\bin\Debug\PracticeEvents.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\PracticeEvents\PracticeEvents\bin\Debug\PracticeEvents.exe
+c:\users\zali\documents\visual studio 2015\Projects\PracticeEvents\PracticeEvents\bin\Debug\PracticeEvents.pdb
+c:\users\zali\documents\visual studio 2015\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.exe
+c:\users\zali\documents\visual studio 2015\Projects\PracticeEvents\PracticeEvents\obj\Debug\PracticeEvents.pdb

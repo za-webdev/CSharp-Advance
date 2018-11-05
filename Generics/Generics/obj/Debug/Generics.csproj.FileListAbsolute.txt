@@ -1,0 +1,6 @@
+c:\users\zali\documents\visual studio 2015\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+c:\users\zali\documents\visual studio 2015\Projects\Generics\Generics\bin\Debug\Generics.exe
+c:\users\zali\documents\visual studio 2015\Projects\Generics\Generics\bin\Debug\Generics.pdb
+c:\users\zali\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+c:\users\zali\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.exe
+c:\users\zali\documents\visual studio 2015\Projects\Generics\Generics\obj\Debug\Generics.pdb
